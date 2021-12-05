@@ -11,7 +11,7 @@
       System.out.println("----------------- "); // Message 1
 			/* Object Part 1 */
 			String myName = new String("MyName"); // Artist Name
-			System.out.println("My Name Is: " + myName); // Message 1
+			System.out.println("Name Is : " + myName); // Message 1
 			
 
 			/* Object Part 2 */
